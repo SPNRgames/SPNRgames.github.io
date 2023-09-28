@@ -185,8 +185,8 @@ main > section {
     display: block;
     left: 45%;
     bottom: 0;
-    position: static;
-    width: 1153px;
+    position: absolute;
+    width: 115px;
 }
 
 .sec-title.white h2:after {
@@ -483,6 +483,8 @@ h1.navbar-brand {
     width: 100%;
 } */
 
+
+/* Project laughtbox setup */
 
 /* Project laughtbox setup */
 
